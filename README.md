@@ -1,7 +1,7 @@
 # Elasticsearch Research
 ## ngày 19/2 (ver2)
-### Thu thập dữ liệu TMA infomation (tiếng việ) bằng scraping (793 docs). 
-### Chạy elasticsearch (dùng multi_match | filter (range)), tìm kiếm theo từ khoá, tìm kiếm theo ngày tháng năm.  
+### - Thu thập dữ liệu TMA infomation (tiếng việ) bằng scraping (793 docs). 
+### - Chạy elasticsearch (dùng multi_match | filter (range)), tìm kiếm theo từ khoá, tìm kiếm theo ngày tháng năm.  
 kết quả chạy
 
 <div align="center">
