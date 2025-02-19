@@ -13,9 +13,10 @@ kết quả chạy
 ### Chạy elasticsearch (dùng multi_match | search matching) kết hợp fastapi trên data có sẳn 
 kết quả chạy
 
-<img src="https://github.com/user-attachments/assets/26855439-2ec3-4c87-b73d-117a64051f09" width="70%">
-<img src="https://github.com/user-attachments/assets/753919fe-5256-4978-ab63-1329c938725c" width="70%">
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/26855439-2ec3-4c87-b73d-117a64051f09" width="80%">
+  <img src="https://github.com/user-attachments/assets/753919fe-5256-4978-ab63-1329c938725c" width="80%">
+</div>
 
 ## ngày 17/2 (elasticsearch.ipynb)
 ### Demo KNN search trên tập data tiếng việt ở mục 10, file elacsticseach.ipynb:
