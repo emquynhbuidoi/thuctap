@@ -7,16 +7,13 @@ kết quả chạy
 <img src="https://github.com/user-attachments/assets/8c05321a-03ee-4860-b29a-29691ce3592d" width="70%">
 <img src="https://github.com/user-attachments/assets/b1091594-4b3b-4fab-b864-593bc5cfc0aa" width="70%">
 
-![image](https://github.com/user-attachments/assets/8c05321a-03ee-4860-b29a-29691ce3592d)
-![image](https://github.com/user-attachments/assets/b1091594-4b3b-4fab-b864-593bc5cfc0aa)
-
-
 
 ## ngày 18/2 (ver1)
 ### Chạy elasticsearch (dùng multi_match | search matching) kết hợp fastapi trên data có sẳn 
 kết quả chạy
-![h1](https://github.com/user-attachments/assets/26855439-2ec3-4c87-b73d-117a64051f09)
-![h2](https://github.com/user-attachments/assets/753919fe-5256-4978-ab63-1329c938725c)
+
+<img src="https://github.com/user-attachments/assets/26855439-2ec3-4c87-b73d-117a64051f09" width="70%">
+<img src="https://github.com/user-attachments/assets/753919fe-5256-4978-ab63-1329c938725c" width="70%">
 
 
 ## ngày 17/2 (elasticsearch.ipynb)
