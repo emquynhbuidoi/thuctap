@@ -10,7 +10,7 @@ kết quả chạy
 </div>
 
 ## ngày 18/2 (ver1)
-### Chạy elasticsearch (dùng multi_match | search matching) kết hợp fastapi trên data có sẳn 
+### - Chạy elasticsearch (dùng multi_match | search matching) kết hợp fastapi trên data có sẳn 
 kết quả chạy
 
 <div align="center">
@@ -19,7 +19,7 @@ kết quả chạy
 </div>
 
 ## ngày 17/2 (elasticsearch.ipynb)
-### Demo KNN search trên tập data tiếng việt ở mục 10, file elacsticseach.ipynb:
+### - Demo KNN search trên tập data tiếng việt ở mục 10, file elacsticseach.ipynb:
 mode VietNamese embedding trên hugging face: https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2?library=sentence-transformers
 (demo chạy CPU)
 
