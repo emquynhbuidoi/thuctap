@@ -3,6 +3,7 @@
 ### Thu thập dữ liệu TMA infomation (tiếng việ) bằng scraping (793 docs). 
 ### Chạy elasticsearch (dùng multi_match | filter (range)), tìm kiếm theo từ khoá, tìm kiếm theo ngày tháng năm.  
 kết quả chạy
+
 <img src="https://github.com/user-attachments/assets/8c05321a-03ee-4860-b29a-29691ce3592d" width="50%">
 <img src="https://github.com/user-attachments/assets/b1091594-4b3b-4fab-b864-593bc5cfc0aa" width="50%">
 
