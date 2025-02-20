@@ -11,9 +11,9 @@ kết quả chạy với search matching ngram tokenization
 kết quả chạy với senmatic seach with dense_vector
 <div align="center">
   <img src="![image](https://github.com/user-attachments/assets/77af939b-a0de-47f5-8493-3639241aae74)" width="80%">
-  <img src="![image](https://github.com/user-attachments/assets/bf4958a8-a551-465c-8d85-62877566abea)" width="80%">
+  <img src="![image](https://github.com/user-attachments/assets/1e08f47c-c286-4555-a355-1502b06c2ab7)
+" width="80%">
 </div>
-![image](https://github.com/user-attachments/assets/e1f9b7eb-6490-494b-8b84-627b8c82ad54)
 
 ## ngày 19/2 (ver2)
 ### - Thu thập dữ liệu TMA infomation (tiếng việ) bằng scraping (793 docs). 
