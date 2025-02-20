@@ -8,14 +8,11 @@ kết quả chạy với search matching ngram tokenization
   <img src="https://github.com/user-attachments/assets/18b914aa-b085-484c-946d-8ad4bdc145d5" width="80%">
 </div>
 
-
 kết quả chạy với senmatic seach with dense_vector
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/77af939b-a0de-47f5-8493-3639241aae74)" width="80%">
-  <img src="![image](https://github.com/user-attachments/assets/1e08f47c-c286-4555-a355-1502b06c2ab7)
-" width="80%">
+  <img src="https://github.com/user-attachments/assets/75386108-f121-4dc7-b037-379aa343e64f" width="80%">
+  <img src="https://github.com/user-attachments/assets/b0d8a10d-7949-44b6-b576-b6446740259a" width="80%">
 </div>
-![image](https://github.com/user-attachments/assets/8b32e41e-dd67-4fc9-bc72-352c27bc5cb3)
 
 
 ## ngày 19/2 (ver2)
