@@ -4,10 +4,8 @@
 ### - Thực hiện senmatic seach with dense_vector với data TMA information.  
 kết quả chạy với search matching ngram tokenization
 <div align="center">
-  ![toke_1](https://github.com/user-attachments/assets/876ac175-306e-4283-b537-792e5e161d7d)
-
-  <img src="https://github.com/user-attachments/assets/26855439-2ec3-4c87-b73d-117a64051f09" width="80%">
-  <img src="https://github.com/user-attachments/assets/753919fe-5256-4978-ab63-1329c938725c" width="80%">
+  <img src="https://github.com/user-attachments/assets/876ac175-306e-4283-b537-792e5e161d7d" width="80%">
+  <img src="https://github.com/user-attachments/assets/18b914aa-b085-484c-946d-8ad4bdc145d5" width="80%">
 </div>
 
 
