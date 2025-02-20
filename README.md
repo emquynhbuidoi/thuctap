@@ -7,6 +7,8 @@ kết quả chạy với search matching ngram tokenization
   <img src="![image](https://github.com/user-attachments/assets/79ae9ded-83bb-4501-b0c3-a078329d2124)" width="80%">
   <img src="![image](https://github.com/user-attachments/assets/8219d163-8088-4879-8ba9-dc397409d855)" width="80%">
 </div>
+![image](https://github.com/user-attachments/assets/79ae9ded-83bb-4501-b0c3-a078329d2124)
+![image](https://github.com/user-attachments/assets/8219d163-8088-4879-8ba9-dc397409d855)
 
 kết quả chạy với senmatic seach with dense_vector
 <div align="center">
