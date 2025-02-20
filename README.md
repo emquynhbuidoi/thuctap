@@ -1,4 +1,19 @@
 # Elasticsearch Research
+## ngày 20/2 (ver3)
+### - Thực hiện search matching ngram tokenization với data TMA information. 
+### - Thực hiện senmatic seach with dense_vector với data TMA information.  
+kết quả chạy với search matching ngram tokenization
+<div align="center">
+  <img src="![image](https://github.com/user-attachments/assets/79ae9ded-83bb-4501-b0c3-a078329d2124)" width="80%">
+  <img src="![image](https://github.com/user-attachments/assets/8219d163-8088-4879-8ba9-dc397409d855)" width="80%">
+</div>
+
+kết quả chạy với senmatic seach with dense_vector
+<div align="center">
+  <img src="![image](https://github.com/user-attachments/assets/77af939b-a0de-47f5-8493-3639241aae74)" width="80%">
+  <img src="![image](https://github.com/user-attachments/assets/bf4958a8-a551-465c-8d85-62877566abea)" width="80%">
+</div>
+
 ## ngày 19/2 (ver2)
 ### - Thu thập dữ liệu TMA infomation (tiếng việ) bằng scraping (793 docs). 
 ### - Chạy elasticsearch (dùng multi_match | filter (range)), tìm kiếm theo từ khoá, tìm kiếm theo ngày tháng năm.  
