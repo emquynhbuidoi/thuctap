@@ -1,4 +1,4 @@
-![h1](https://github.com/user-attachments/assets/58fba078-f88c-475a-be51-4b514adb5599)# Elasticsearch Research
+# Elasticsearch Research
 ## ngày 21/2 (ver4)
 ### - Thực hiện Hybrid Searching với data TMA information. 
 ### - Sử dụng thuật toán Reciprocal Rank Fusion (RRF) để kết hợp 2 cách seach là lexical_search và semantic_search.   
