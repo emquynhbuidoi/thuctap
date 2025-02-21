@@ -1,4 +1,16 @@
-# Elasticsearch Research
+![h1](https://github.com/user-attachments/assets/58fba078-f88c-475a-be51-4b514adb5599)# Elasticsearch Research
+## ngày 21/2 (ver4)
+### - Thực hiện Hybrid Searching với data TMA information. 
+### - Sử dụng thuật toán Reciprocal Rank Fusion (RRF) để kết hợp 2 cách seach là lexical_search và semantic_search.   
+kết quả chạy khi tìm kiếm "các sự kiện ở TMA":  
+ + Với kết quả trả về đầu tiên thiên về lexical_score sẽ cho ra kết quả tìm kiếm theo từ khoá sự kiện
+ + Với kết quả thứ trả về thứ 2, ta thấy không có bất kỳ từ khoá tìm kiếm nào ở kết quả, nhưng hệ thống vẫn cho ra được sự kiện là "cuộc thi ảnh", nhờ vào semantic_search tìm kiếm theo ngữ nghĩa.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9e189b36-2abb-4ec9-9b45-bfbb44d17585" width="80%">
+  <img src="https://github.com/user-attachments/assets/e6f38cbf-4405-4afa-aa91-4da489b0b50e" width="80%">
+</div>
+
+
 ## ngày 20/2 (ver3)
 ### - Thực hiện search matching ngram tokenization với data TMA information. 
 ### - Thực hiện senmatic seach with dense_vector với data TMA information.  
