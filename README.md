@@ -3,8 +3,8 @@
 ### - Thực hiện Hybrid Searching với data TMA information. 
 ### - Sử dụng thuật toán Reciprocal Rank Fusion (RRF) để kết hợp 2 cách seach là lexical_search và semantic_search.   
 kết quả chạy khi tìm kiếm "các sự kiện ở TMA":  
- + Với kết quả trả về đầu tiên thiên về lexical_score sẽ cho ra kết quả tìm kiếm theo từ khoá sự kiện
- + Với kết quả thứ trả về thứ 2, ta thấy không có bất kỳ từ khoá tìm kiếm nào ở kết quả, nhưng hệ thống vẫn cho ra được sự kiện là "cuộc thi ảnh", nhờ vào semantic_search tìm kiếm theo ngữ nghĩa.
+ + Với kết quả trả về đầu tiên thiên về lexical_score sẽ cho ra kết quả tìm kiếm theo từ khoá sự kiện.
+ + Với kết quả thứ trả về thứ 2, ta thấy không có bất kỳ từ khoá tìm kiếm nào ở kết quả, nhưng hệ thống vẫn cho ra được sự kiện là "cuộc thi ảnh". Nhờ vào semantic_search tìm kiếm theo ngữ nghĩa.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9e189b36-2abb-4ec9-9b45-bfbb44d17585" width="80%">
   <img src="https://github.com/user-attachments/assets/e6f38cbf-4405-4afa-aa91-4da489b0b50e" width="80%">
