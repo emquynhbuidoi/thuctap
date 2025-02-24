@@ -101,7 +101,7 @@ def reciprocal_rank_fusion(lexical_hits, semantic_hits, k=60):
     return sorted_results
     
 @app.get('/api/v1/hybrid_search')
-async def hybrid_search(es, search_query, limit: int = 10):
+async def hybrid_search(search_query, limit: int = 10):
     es = get_es_client(max_retries=2, sleep_time=1)
     lexical_hits = await lexical_search_hybrid(es, search_query, limit)
     semantic_hits = await semantic_search_hybrid(es, search_query, limit)
@@ -299,7 +299,7 @@ def extrac_docs_per_year(response):
 # # print(asyncio.run(search('ma', 0, 10)))
 if __name__ == "__main__":
     es = get_es_client(max_retries=2, sleep_time=1)
-    hybrid_search(es, "Thực tập", limit=4)
+    hybrid_search("Thực tập", limit=4)
 #     query = {
 #         "bool": {
 #             "must": [
