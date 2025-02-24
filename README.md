@@ -1,3 +1,20 @@
+# Agents Research
+## ngày 24/2 (agents_research/ver2)
+### Thực hiện sử dụng Function Tool (tự tạo truy vẫn dữ liệu mẫu, api duckduckgo search)
+### Xây dựng Agentic RAG kết hợp ElasticSearch (hybrid search) trên dữ liệu TMA infomation. Nhưng chỉ truy xuất 1 chiều (vì chưa thực thiện đánh giá độ hài lòng kết quả RAG, rồi cho quay lại phân tích với LLM) 
+Kết quả sử dụng Function Tool
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9799986f-f509-4abb-87a3-38c8451a1feb" width="80%">
+  <img src="https://github.com/user-attachments/assets/4ec93f65-8e2f-48f7-86e8-ccfcc78195e3" width="80%">
+</div>
+
+
+Kết quả sử dụng Agentic RAG 1 chiều
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8f3bf3b6-6565-4b07-bae9-4a8d9a078d90" width="80%">
+  <img src="https://github.com/user-attachments/assets/3bf17173-5549-49da-9ebe-6ad018a62eda" width="80%">
+</div>
+
 # Elasticsearch Research
 ## ngày 21/2 (ver4)
 ### - Thực hiện Hybrid Searching với data TMA information. 
