@@ -1,4 +1,10 @@
 # 1. Agents Research
+## ngày 24/2 (agents_research/ver3)
+### - Tìm hiểu và xây dựng các hệ thông Human-in-the-loop, Meta Prompting System, Multi agent Group Chat, Metacognition AI Agents
+
+
+
+
 ## ngày 24/2 (agents_research/ver2)
 ### - Thực hiện sử dụng Function Tool (tự tạo truy vẫn dữ liệu mẫu, api duckduckgo search)
 ### - Xây dựng Agentic RAG kết hợp ElasticSearch (hybrid search) trên dữ liệu TMA infomation. Nhưng chỉ truy xuất 1 chiều (vì chưa thực thiện đánh giá độ hài lòng kết quả RAG, rồi cho quay lại phân tích với LLM) 
