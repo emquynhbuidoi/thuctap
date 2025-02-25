@@ -1,5 +1,5 @@
 # 1. Agents Research
-## ngày 24/2 (agents_research/ver3)
+## ngày 25/2 (agents_research/ver3)
 ### - Tìm hiểu và xây dựng các hệ thông Human-in-the-loop, Meta Prompting System, Multi agent Group Chat, Metacognition AI Agents
 
 
