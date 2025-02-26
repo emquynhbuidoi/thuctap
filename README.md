@@ -1,4 +1,16 @@
 # 1. Agents Research
+## ngày 26/2 (agents_research/ver3)
+### - Build Chatbot agent với TMA info
+### - Sử dụng 2 tool (get_asearch duckduckgo và hybrid_search_tool_func elasticsearh) để tìm kiếm thông tin. Bên cạnh đó kết hợp với get_rag_prompt để chỉnh sửa promts nhắc cho chatbot ưu tiên trả lời theo thông tin đã lưu trước ở elasticSeach.
+Kết quả chạy thử
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fc22c65e-81bc-448f-a86f-07180d7aa80d" width="80%">
+  <img src="https://github.com/user-attachments/assets/c3e4fd2f-6e9b-40ad-ae4f-d36378cd027f" width="80%">
+  <img src="https://github.com/user-attachments/assets/49ef0ccf-d447-486d-85fd-19ecb3d3e957" width="80%">
+</div>
+
+
+
 ## ngày 25/2 (agents_research/ver3)
 ### - Tìm hiểu và xây dựng các hệ thông Human-in-the-loop, Meta Prompting System, Multi agent Group Chat, Metacognition AI Agents
 
