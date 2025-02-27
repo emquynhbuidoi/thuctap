@@ -1,4 +1,8 @@
 # 1. Agents Research
+## ngày 27/2 (agents_research/ver3)
+### - Thực hiện chia code chatbot agent thành front_end, back_end, giao tiếp với nhau bằng fastapi. Kết hợp Langfuse để quan sát kết quả trả về của agents
+
+
 ## ngày 26/2 (agents_research/ver3)
 ### - Build Chatbot agent với TMA info
 ### - Sử dụng 2 tool (get_asearch duckduckgo và hybrid_search_tool_func elasticsearh) để tìm kiếm thông tin. Bên cạnh đó kết hợp với get_rag_prompt để chỉnh sửa promts nhắc cho chatbot ưu tiên trả lời theo thông tin đã lưu trước ở elasticSeach.
