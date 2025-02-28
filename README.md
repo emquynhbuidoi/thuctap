@@ -1,7 +1,7 @@
 # 1. Agents Research
 ## ngày 28/2 (agents_research/ver6)
 ### - Kết hợp Langfuse để quan sát kết quả trả về của agents theo từng traces và từng section
-### - Build pipeline agent-chat: prompt -> get_rag_prompt(elasticsearch) -> get_anew_prmopt(prompt_agent_assistant)-> answer(agent tma_assistant) -> critic (critic_agent)
+### - Build pipeline agent-chat: prompt -> get_rag_prompt(elasticsearch) -> get_anew_prmopt(prompt_agent_assistant | tools(duckduckgo, elsearch))-> answer(agent tma_assistant) -> critic (critic_agent)
 
 * Question and Answer
 <div align="center">
