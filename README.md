@@ -3,15 +3,15 @@
 ### - Kết hợp Langfuse để quan sát kết quả trả về của agents theo từng traces và từng section
 ### - Build pipeline agent-chat: prompt -> get_rag_prompt(elasticsearch) -> get_anew_prmopt(prompt_agent_assistant)-> answer(agent tma_assistant) -> critic (critic_agent)
 
-Question and Answer
+* Question and Answer
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e1daef4c-b015-4855-8023-f4a70d0892c8" width="80%">
 </div>
-  output RAG Prompt
+* Output RAG Prompt
 <div align="center">
   <img src="https://github.com/user-attachments/assets/841fc376-0df0-4dd7-bf23-9826bcf6c7f4" width="80%">
 </div>
-output get_anew_prmopt from prompt_agent_assistant
+* Output get_anew_prmopt from prompt_agent_assistant
 <div align="center">
   <img src="https://github.com/user-attachments/assets/20a04c65-7724-41a7-8c5d-1d751615abbc" width="80%">
 </div>
