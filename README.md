@@ -2,8 +2,14 @@
 ## ngày 28/2 (agents_research/ver5)
 ### - Kết hợp Langfuse để quan sát kết quả trả về của agents theo từng traces và từng section
 ### - Build pipeline agent-chat: prompt -> get_rag_prompt(elasticsearch) -> get_anew_prmopt(prompt_agent_assistant)-> answer(agent tma_assistant) -> critic (critic_agent)
-  
-
+<div align="center">
+  Question and Answer
+  <img src="https://github.com/user-attachments/assets/e1daef4c-b015-4855-8023-f4a70d0892c8" width="80%">
+  output RAG Prompt
+  <img src="https://github.com/user-attachments/assets/841fc376-0df0-4dd7-bf23-9826bcf6c7f4" width="80%">
+  output get_anew_prmopt from prompt_agent_assistant
+  <img src="https://github.com/user-attachments/assets/20a04c65-7724-41a7-8c5d-1d751615abbc" width="80%">
+</div>
 
 ## ngày 27/2 (agents_research/ver5)
 ### - Thực hiện chia code chatbot agent thành front_end, back_end, giao tiếp với nhau bằng fastapi.
