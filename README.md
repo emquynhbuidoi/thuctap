@@ -1,6 +1,12 @@
 # 1. Agents Research
+## ngày 28/2 (agents_research/ver5)
+### - Kết hợp Langfuse để quan sát kết quả trả về của agents theo từng traces và từng section
+### - Build pipeline agent-chat: prompt -> get_rag_prompt(elasticsearch) -> get_anew_prmopt(prompt_agent_assistant)-> answer(agent tma_assistant) -> critic (critic_agent)
+  
+
+
 ## ngày 27/2 (agents_research/ver5)
-### - Thực hiện chia code chatbot agent thành front_end, back_end, giao tiếp với nhau bằng fastapi. Kết hợp Langfuse để quan sát kết quả trả về của agents
+### - Thực hiện chia code chatbot agent thành front_end, back_end, giao tiếp với nhau bằng fastapi.
 
 
 ## ngày 26/2 (agents_research/ver4)
