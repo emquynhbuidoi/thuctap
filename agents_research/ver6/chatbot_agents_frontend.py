@@ -229,7 +229,7 @@ def main():
 
 
 if __name__ == "__main__":
-    client_gemini = genai.Client(api_key='AIzaSyA2DAuvWV3wphi6r0o-74NLUaRXFDjPHc8')
+    client_gemini = genai.Client(api_key='')
     MODEL_ID = "gemini-2.0-flash"
     setup_page()
     main()
