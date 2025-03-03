@@ -1,4 +1,12 @@
 # 1. Agents Research
+## ngày 3/3 (agents_research/ver7)
+### - Xây dựng pipeline xử lý PDF file: pdf file -> LlamaParse -> SemanticSplitterNodeParser -> index_data(elsearch) -> hybrid_search -> context  -> agents processing 
+* Kết quả demo
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e860ed74-6794-4eff-bee7-99fa9aad9093" width="80%">
+  <img src="https://github.com/user-attachments/assets/ebaf45f0-50d0-484d-92b7-561ef3167a12" width="80%">
+</div>
+
 ## ngày 28/2 (agents_research/ver6)
 ### - Kết hợp Langfuse để quan sát kết quả trả về của agents theo từng traces và từng section
 ### - Build pipeline agent-chat: prompt -> get_rag_prompt(elasticsearch) -> get_anew_prmopt(prompt_agent_assistant | tools(duckduckgo, elsearch))-> answer(agent tma_assistant) -> critic (critic_agent)
