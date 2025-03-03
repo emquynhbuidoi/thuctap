@@ -1,6 +1,6 @@
 # 1. Agents Research
 ## ngày 3/3 (agents_research/ver7)
-### - Xây dựng pipeline xử lý PDF file: pdf file -> LlamaParse -> SemanticSplitterNodeParser -> index_data(elsearch) -> hybrid_search -> context  -> agents processing 
+### - Xây dựng pipeline xử lý PDF file: pdf file -> LlamaParse -> Chunking(SemanticSplitterNodeParser) -> index_data(elsearch) -> hybrid_search -> context  -> agents processing 
 * Kết quả demo
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e860ed74-6794-4eff-bee7-99fa9aad9093" width="80%">
