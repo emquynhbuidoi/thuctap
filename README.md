@@ -4,9 +4,10 @@
 ### - Quản lý phiên hội thoại (session) với langfuse: người dùng có thể xem lại các session cũ rồi tiếp tục chat với phiên đó hoặc chat với session
 * Kết quả demo
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d63f97ec-bd71-496c-b6e3-54db5a689d03" width="80%">
+  <img src="https://github.com/user-attachments/assets/72239313-000a-4458-99f1-7ff85048d4ff" width="80%">
   <img src="https://github.com/user-attachments/assets/c0916f68-730a-467f-a90b-44c51f9373e9" width="80%">
 </div>
+
 
 
 ## ngày 3/3 (agents_research/ver7)
