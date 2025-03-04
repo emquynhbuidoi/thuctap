@@ -2,13 +2,14 @@
 ## ngày 4/3 (agents_research/ver8)
 ### - Quản lý cost api LLM với langfuse (đánh giá cost dựa vào token input và token ouput) sau đó langfuse sẽ trực quan thành biểu đồ
 ### - Quản lý phiên hội thoại (session) với langfuse: người dùng có thể xem lại các session cũ rồi tiếp tục chat với phiên đó hoặc chat với session
-* Kết quả demo
+* Ảnh minh hoạ quản lý cost 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/72239313-000a-4458-99f1-7ff85048d4ff" width="80%">
+</div>
+* Ảnh minh hoạ quản lý session
+<div align="center">
   <img src="https://github.com/user-attachments/assets/c0916f68-730a-467f-a90b-44c51f9373e9" width="80%">
 </div>
-
-
 
 ## ngày 3/3 (agents_research/ver7)
 ### - Xây dựng pipeline xử lý PDF file: pdf file -> LlamaParse -> Chunking(SemanticSplitterNodeParser) -> index_data(elsearch) -> hybrid_search -> context  -> agents processing 
