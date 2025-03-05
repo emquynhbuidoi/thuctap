@@ -1,4 +1,15 @@
 # 1. Agents Research
+## ngày 4/3 (agents_research/ver9)
+### - Cấu trúc lại file code theo dạng class...
+### - Quản lý các file pdf tải lên với langfuse
+* Ảnh minh hoạ quản lý file pdf
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/382d40d8-56ef-446c-a65b-5e475b1fe6a2" width="80%">
+  <img src="https://github.com/user-attachments/assets/8e8f8225-c1e9-403e-bee2-45dd741dc043" width="80%">
+</div>
+
+
+
 ## ngày 4/3 (agents_research/ver8)
 ### - Quản lý cost api LLM với langfuse (đánh giá cost dựa vào token input và token ouput) sau đó langfuse sẽ trực quan thành biểu đồ
 ### - Quản lý phiên hội thoại (session) với langfuse: người dùng có thể xem lại các session cũ rồi tiếp tục chat với phiên đó hoặc chat với session
