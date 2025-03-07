@@ -1,4 +1,16 @@
 # 1. Agents Research
+## ngày 7/3 (agents_research/ver11)
+### - Hoàn thiện code phù hợp với pipeline
+### - Tích hợp Ragas để đánh giá RAG các phương pháp được chọn: LLMContextPrecisionWithoutReference (đánh giá context truy xuất có tốt hay không) + Faithfulness (đánh giá câu trả lời có liên quan đến context không) + Relevance (để đánh giá câu trả lời có liên quan đến câu hỏi hay không ) => đánh giá câu trả lời có hiệu quả và chính xác với câu hỏi hay không.
+* Ảnh Demo
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/011d7066-86b0-415a-b285-1b5e3b40c395" width="80%">
+  <img src="https://github.com/user-attachments/assets/cb54e03c-c8db-4e76-871e-41765cc2788a" width="80%">
+  <img src="https://github.com/user-attachments/assets/75309b40-49f6-42c7-b673-db41ef78dd79" width="80%">
+</div>
+
+
+
 ## ngày 4/3 (agents_research/ver9)
 ### - Cấu trúc lại file code theo dạng class...
 ### - Quản lý các file pdf tải lên với langfuse
