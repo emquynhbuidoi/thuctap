@@ -1,0 +1,8 @@
+sentence_transformers
+elasticsearch
+autogen-agentchat
+"autogen-ext[azure]"
+aiohttp
+azure-core 
+langfuse
+ragas
