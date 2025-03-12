@@ -2,17 +2,26 @@
 ## ngày 12/3 
 ### - Sửa lại code (cấu trúc multi-agents, fastapi).
 ### - Tích hợp Memory autogent, tích hợp Azure Content-safety để kiểm nội dung hội thoại người dùng.
-* Ảnh Demo
+* Ảnh Demo Memory autogent và Content safety:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/78954a9f-faeb-453e-b718-3a41901a4c8e" width="80%">
   <img src="https://github.com/user-attachments/assets/cf903168-e1d0-4d94-b644-72e9c7a925f6" width="80%">
 </div>
 
 
+## ngày 7/3 (agents_research/ver11)
+### - Hoàn thiện code phù hợp với pipeline
+### - Tích hợp Ragas để đánh giá RAG các phương pháp được chọn: LLMContextPrecisionWithoutReference (đánh giá context truy xuất có tốt hay không) + Faithfulness (đánh giá câu trả lời có liên quan đến context không) + Relevance (để đánh giá câu trả lời có liên quan đến câu hỏi hay không ) => đánh giá câu trả lời có hiệu quả và chính xác với câu hỏi hay không.
+* Ảnh Demo hệ thống, và điểm số đánh giá bằng Ragas:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d5dd600-8d7a-4cac-ba74-693a600be212" width="80%">
+  <img src="https://github.com/user-attachments/assets/4efc4ec3-0603-4e71-9040-b64f905c0485" width="80%">
+</div>
+
 ## ngày 4/3 (agents_research/ver9)
 ### - Cấu trúc lại file code theo dạng class...
 ### - Quản lý các file pdf tải lên với langfuse
-* Ảnh minh hoạ quản lý file pdf
+* Ảnh minh hoạ quản lý file pdf:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/382d40d8-56ef-446c-a65b-5e475b1fe6a2" width="80%">
   <img src="https://github.com/user-attachments/assets/8e8f8225-c1e9-403e-bee2-45dd741dc043" width="80%">
@@ -23,7 +32,7 @@
 ## ngày 4/3 (agents_research/ver8)
 ### - Quản lý cost api LLM với langfuse (đánh giá cost dựa vào token input và token ouput) sau đó langfuse sẽ trực quan thành biểu đồ
 ### - Quản lý phiên hội thoại (session) với langfuse: người dùng có thể xem lại các session cũ rồi tiếp tục chat với phiên đó hoặc chat với session
-* Ảnh minh hoạ quản lý cost 
+* Ảnh minh hoạ quản lý cost:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/72239313-000a-4458-99f1-7ff85048d4ff" width="80%">
 </div>
@@ -34,7 +43,7 @@
 
 ## ngày 3/3 (agents_research/ver7)
 ### - Xây dựng pipeline xử lý PDF file: pdf file -> LlamaParse -> Chunking(SemanticSplitterNodeParser) -> index_data(elsearch) -> hybrid_search -> context  -> agents processing 
-* Kết quả demo
+* Kết quả demo:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e860ed74-6794-4eff-bee7-99fa9aad9093" width="80%">
   <img src="https://github.com/user-attachments/assets/ebaf45f0-50d0-484d-92b7-561ef3167a12" width="80%">
@@ -44,15 +53,15 @@
 ### - Kết hợp Langfuse để quan sát kết quả trả về của agents theo từng traces và từng section
 ### - Build pipeline agent-chat: prompt -> get_rag_prompt(elasticsearch) -> get_anew_prmopt(prompt_agent_assistant | tools(duckduckgo, elsearch))-> answer(agent tma_assistant) -> critic (critic_agent)
 
-* Question and Answer
+* Question and Answer:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e1daef4c-b015-4855-8023-f4a70d0892c8" width="80%">
 </div>
-* Output RAG Prompt
+* Output RAG Prompt:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/841fc376-0df0-4dd7-bf23-9826bcf6c7f4" width="80%">
 </div>
-* Output get_anew_prmopt from prompt_agent_assistant
+* Output get_anew_prmopt from prompt_agent_assistant:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/20a04c65-7724-41a7-8c5d-1d751615abbc" width="80%">
 </div>
