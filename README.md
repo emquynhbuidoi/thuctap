@@ -2,7 +2,7 @@
 ## ngày 12/3 
 ### - Sửa lại code (cấu trúc multi-agents, fastapi).
 ### - Tích hợp Memory autogent, tích hợp Azure Content-safety để kiểm nội dung hội thoại người dùng.
-* Ảnh Demo Memory autogent và Content safety:
+* Ảnh Demo Memory autogen và Content safety:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/78954a9f-faeb-453e-b718-3a41901a4c8e" width="80%">
   <img src="https://github.com/user-attachments/assets/cf903168-e1d0-4d94-b644-72e9c7a925f6" width="80%">
