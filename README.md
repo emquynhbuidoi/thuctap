@@ -1,14 +1,12 @@
 # 1. Agents Research
 ## ngày 7/3 (agents_research/ver11)
-### - Hoàn thiện code phù hợp với pipeline
-### - Tích hợp Ragas để đánh giá RAG các phương pháp được chọn: LLMContextPrecisionWithoutReference (đánh giá context truy xuất có tốt hay không) + Faithfulness (đánh giá câu trả lời có liên quan đến context không) + Relevance (để đánh giá câu trả lời có liên quan đến câu hỏi hay không ) => đánh giá câu trả lời có hiệu quả và chính xác với câu hỏi hay không.
+### - Sửa lại code (cấu trúc multi-agents, fastapi).
+### - Tích hợp Memory autogent, tích hợp Azure Content-safety để kiểm nội dung hội thoại người dùng.
 * Ảnh Demo
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/011d7066-86b0-415a-b285-1b5e3b40c395" width="80%">
-  <img src="https://github.com/user-attachments/assets/cb54e03c-c8db-4e76-871e-41765cc2788a" width="80%">
-  <img src="https://github.com/user-attachments/assets/75309b40-49f6-42c7-b673-db41ef78dd79" width="80%">
+  <img src="https://github.com/user-attachments/assets/78954a9f-faeb-453e-b718-3a41901a4c8e" width="80%">
+  <img src="https://github.com/user-attachments/assets/cf903168-e1d0-4d94-b644-72e9c7a925f6" width="80%">
 </div>
-
 
 
 ## ngày 4/3 (agents_research/ver9)
