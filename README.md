@@ -1,5 +1,5 @@
 # 1. Agents Research
-## ngày 7/3 (agents_research/ver11)
+## ngày 12/3 
 ### - Sửa lại code (cấu trúc multi-agents, fastapi).
 ### - Tích hợp Memory autogent, tích hợp Azure Content-safety để kiểm nội dung hội thoại người dùng.
 * Ảnh Demo
