@@ -1,7 +1,7 @@
 # 1. Agents Research
 ## ngày 14/3 (agents_research/ver12)
 ### - Hoàn thiện hệ thống chatbot tma info.
-### - Tích hợp Memory autogent | Truy vấn các câu hỏi, câu trả lời theo session hiện tại -> Lưu câu hỏi và tách câu trả lời theo từng fact(câu) rồi chuyển về dạng docs -> Lưu vào es -> Dùng HybridSearch để tìm các câu phù hợp với câu hỏi của người dùng hiện tại -> Chuyển thành MemoryContent -> Truyền memory đó vào prompt_agent_assistant và tma_assistant.
+### - Tích hợp Memory autogent | Truy vấn các câu hỏi, câu trả lời theo session hiện tại -> Lưu câu hỏi và tách câu trả lời theo từng fact(câu) rồi chuyển về dạng docs -> Lưu vào es -> Dùng HybridSearch để tìm kiếm, trong các câu vừa lưu phù hợp với câu hỏi của người dùng hiện tại -> Chuyển thành MemoryContent -> Truyền memory đó vào prompt_agent_assistant và tma_assistant.
 * Ảnh Demo Memory autogen:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e6b390c5-cfb1-44e3-aeea-38d78180c2f9" width="80%">
