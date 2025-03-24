@@ -1,4 +1,11 @@
 # 1. Agents Research
+## ngày 24/3 (graph_database/build_KG/build_KG.ipynb)
+### - Build KG.
+### - Xây dựng pipeline ứng dụng GraphDB vào filter sau khi VectorSearch RAG.
+
+
+
+
 ## ngày 14/3 (agents_research/ver12)
 ### - Hoàn thiện hệ thống chatbot tma info.
 ### - Tích hợp Memory autogent | Truy vấn các câu hỏi, câu trả lời theo session hiện tại -> Lưu câu hỏi và tách câu trả lời theo từng fact(câu) rồi chuyển về dạng docs -> Lưu vào es -> Dùng HybridSearch để tìm kiếm, trong các câu vừa lưu phù hợp với câu hỏi của người dùng hiện tại -> Chuyển thành MemoryContent -> Truyền memory đó vào prompt_agent_assistant và tma_assistant.
