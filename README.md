@@ -1,5 +1,5 @@
 # 1. Agents Research
-## ngày 26/3 (graph_database/build_KG/build_KG.ipynb)
+## ngày 26/3 (graph_database/pipeline_filter_by_kg/main.py)
 ### - Xây dựng demo pipeline ứng dụng GraphDB vào filter sau khi VectorSearch RAG.
 ### - Question -> Lấy Docs bằng vectorsearch -> Trích xuất Labels entity bằng GPT ở question và docs từ vsearch -> Kiểm tra nếu câu hỏi và docs có chung Labels entity hoặc có chung quan hệ thì giữ lại... Người lại thì filter ra khỏi docs.
 * Ảnh Demo:
