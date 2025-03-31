@@ -1,4 +1,4 @@
-# 1. Agents Research
+# 1. GraphDataBase Research
 ## ngày 31/3 (graph_database/chatbot_vectorsearch_filterByKG)
 ### - Ứng dụng pipeline Sử Dụng KG để filter docs, sau khi các docs được RAG bằng VectorSearch.
 
@@ -24,7 +24,7 @@
 
 
 
-
+# 2. Agents Research
 ## ngày 14/3 (agents_research/ver12)
 ### - Hoàn thiện hệ thống chatbot tma info.
 ### - Tích hợp Memory autogent | Truy vấn các câu hỏi, câu trả lời theo session hiện tại -> Lưu câu hỏi và tách câu trả lời theo từng fact(câu) rồi chuyển về dạng docs -> Lưu vào es -> Dùng HybridSearch để tìm kiếm, trong các câu vừa lưu phù hợp với câu hỏi của người dùng hiện tại -> Chuyển thành MemoryContent -> Truyền memory đó vào prompt_agent_assistant và tma_assistant.
@@ -137,7 +137,7 @@
 
 
 
-# 2. Elasticsearch Research
+# 3. Elasticsearch Research
 ## ngày 21/2 (ver4)
 ### - Thực hiện Hybrid Searching với data TMA information. 
 ### - Sử dụng thuật toán Reciprocal Rank Fusion (RRF) để kết hợp 2 cách seach là lexical_search và semantic_search.   
