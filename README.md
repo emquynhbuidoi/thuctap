@@ -8,8 +8,7 @@
 </div>
 
 # Selector Group Chat
-## multiAgent/selectorGroupChat
-### - Multi-Agent với selectorGroupChat.
+## Multi-Agent với selectorGroupChat (multiAgent/selectorGroupChat)
 * Ảnh pipeline:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ebc1f6c2-04c0-4ec0-ac62-bc225cff4445" width="80%">
