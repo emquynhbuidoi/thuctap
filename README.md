@@ -1,3 +1,13 @@
+# 1. MCP Agent
+## ngayf 15/4 (mcp_agent/ver1)
+### - Xây dựng Autogent agent theo chuẩn MCP: Client-Server
+### - Thực hiện MCP tools (tools: sum, multiple)
+* Ảnh mcp tool Inspector:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a291631a-506b-4737-b334-45f648fa548d" width="80%">
+</div>
+
+
 # 1. GraphDataBase Research
 ## ngày 31/3 (graph_database/chatbot_vectorsearch_filterByKG)
 ### - Ứng dụng pipeline Sử Dụng KG để filter docs, sau khi các docs được RAG bằng VectorSearch.
