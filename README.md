@@ -9,8 +9,8 @@
 
 # Selector Group Chat
 ## multiAgent/selectorGroupChat
-### - Ứng dụng pipeline Sử Dụng KG để filter docs, sau khi các docs được RAG bằng VectorSearch.
-* Ảnh mcp tool Inspector:
+### - Multi-Agent với selectorGroupChat.
+* Ảnh pipeline:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ebc1f6c2-04c0-4ec0-ac62-bc225cff4445" width="80%">
 </div>
