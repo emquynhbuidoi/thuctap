@@ -1,5 +1,5 @@
 # 1. MCP Agent
-## ngayf 15/4 (mcp_agent/ver1)
+## ngày 15/4 (mcp_agent/ver1)
 ### - Xây dựng Autogent agent theo chuẩn MCP: Client-Server
 ### - Thực hiện MCP tools (tools: sum, multiple)
 * Ảnh mcp tool Inspector:
@@ -7,8 +7,15 @@
   <img src="https://github.com/user-attachments/assets/a291631a-506b-4737-b334-45f648fa548d" width="80%">
 </div>
 
+# Selector Group Chat
+## multiAgent/selectorGroupChat
+### - Ứng dụng pipeline Sử Dụng KG để filter docs, sau khi các docs được RAG bằng VectorSearch.
+* Ảnh mcp tool Inspector:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ebc1f6c2-04c0-4ec0-ac62-bc225cff4445" width="80%">
+</div>
 
-# 1. GraphDataBase Research
+# 2. GraphDataBase Research
 ## ngày 31/3 (graph_database/chatbot_vectorsearch_filterByKG)
 ### - Ứng dụng pipeline Sử Dụng KG để filter docs, sau khi các docs được RAG bằng VectorSearch.
 
@@ -34,7 +41,7 @@
 
 
 
-# 2. Agents Research
+# 3. Agents Research
 ## ngày 14/3 (agents_research/ver12)
 ### - Hoàn thiện hệ thống chatbot tma info.
 ### - Tích hợp Memory autogent | Truy vấn các câu hỏi, câu trả lời theo session hiện tại -> Lưu câu hỏi và tách câu trả lời theo từng fact(câu) rồi chuyển về dạng docs -> Lưu vào es -> Dùng HybridSearch để tìm kiếm, trong các câu vừa lưu phù hợp với câu hỏi của người dùng hiện tại -> Chuyển thành MemoryContent -> Truyền memory đó vào prompt_agent_assistant và tma_assistant.
@@ -147,7 +154,7 @@
 
 
 
-# 3. Elasticsearch Research
+# . Elasticsearch Research
 ## ngày 21/2 (ver4)
 ### - Thực hiện Hybrid Searching với data TMA information. 
 ### - Sử dụng thuật toán Reciprocal Rank Fusion (RRF) để kết hợp 2 cách seach là lexical_search và semantic_search.   
