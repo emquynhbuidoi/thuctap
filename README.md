@@ -9,6 +9,7 @@
 
 # Selector Group Chat
 ## Multi-Agent với selectorGroupChat (multiAgent/selectorGroupChat)
+### tutorial: https://www.canva.com/design/DAGexPV-VVY/_0Y4MK0Vqze3HenhpD7Hiw/edit?utm_content=DAGexPV-VVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 * Ảnh pipeline:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ebc1f6c2-04c0-4ec0-ac62-bc225cff4445" width="80%">
