@@ -1,11 +1,14 @@
 # 1. MCP Agent
 ## ngày 15/4 (mcp_agent/ver1)
 ### - Xây dựng Autogent agent theo chuẩn MCP: Client-Server
-### - Thực hiện MCP tools (tools: sum, multiple)
+### - Thực hiện 2 Transport MCP Autogent (stdio, sse)
+### - Demo 2 MCP autogent tools (tools: sum, multiple)
 * Ảnh mcp tool Inspector:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a291631a-506b-4737-b334-45f648fa548d" width="80%">
+  <img src="https://github.com/user-attachments/assets/a4165d55-94ec-48aa-bbcb-b0b6575beafc" width="80%">
 </div>
+
 
 # Selector Group Chat
 ## Multi-Agent với selectorGroupChat (multiAgent/selectorGroupChat)
