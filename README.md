@@ -3,7 +3,7 @@
 ### - Xây dựng Autogent agent theo chuẩn MCP: Client-Server
 ### - Thực hiện 2 Transport MCP Autogent (stdio, sse)
 ### - Demo 2 MCP autogent tools (tools: sum, multiple)
-* Ảnh mcp tool Inspector:
+* Ảnh mcp tool Inspector & MCP SSE Transport:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a291631a-506b-4737-b334-45f648fa548d" width="80%">
   <img src="https://github.com/user-attachments/assets/a4165d55-94ec-48aa-bbcb-b0b6575beafc" width="80%">
